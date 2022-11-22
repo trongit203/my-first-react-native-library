@@ -40,13 +40,13 @@
     "ios",
     "android"
   ],
-  "repository": "https://github.com/trongit203/react-native-my-first-library",
+  "repository": "https://github.com/trongit203/my-first-react-native-library",
   "author": "Trong Tran <trong.it203@gmail.com> (https://github.com/trongit203)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/trongit203/react-native-my-first-library/issues"
+    "url": "https://github.com/trongit203/my-first-react-native-library/issues"
   },
-  "homepage": "https://github.com/trongit203/react-native-my-first-library#readme",
+  "homepage": "https://github.com/trongit203/my-first-react-native-library#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
